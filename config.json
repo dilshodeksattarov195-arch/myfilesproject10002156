@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderparse",
+        "uuid": 250096,
+        "checksum": "ep4dws"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
